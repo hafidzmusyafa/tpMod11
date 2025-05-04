@@ -1,0 +1,12 @@
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.sourcelink.json
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\Hafidz\OneDrive - Telkom University\Semester 4\KPL\w11\tpmodul10_103022300162\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
